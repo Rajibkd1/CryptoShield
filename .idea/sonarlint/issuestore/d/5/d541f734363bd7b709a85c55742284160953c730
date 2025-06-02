@@ -1,0 +1,16 @@
+
+W
+java:S1118
+":Add a private constructor to hide the implicit public one.(¸æí¹8‚¿ûàæ2
+G	java:S106"+Replace this use of System.out by a logger.(ŸªëÓ8…¿ûàæ2
+G	java:S106""+Replace this use of System.out by a logger.(“è¸8Š¿ûàæ2
+L	java:S106."+Replace this use of System.out by a logger.(ŠË¹Æüÿÿÿÿ8‹¿ûàæ2
+G	java:S1069"+Replace this use of System.out by a logger.(æÅ“”8Œ¿ûàæ2
+\	java:S899y";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8•¿ûàæ2
+p
+java:S4042y"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8•¿ûàæ2
+V	java:S899}";Do something with the "boolean" value returned by "delete".(œğŠ8•¿ûàæ2
+j
+java:S4042}"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(œğŠ8•¿ûàæ2
+G
+java:S1128"*Remove this unused import 'java.nio.file'.(æĞİ¿8Å™üàæ2

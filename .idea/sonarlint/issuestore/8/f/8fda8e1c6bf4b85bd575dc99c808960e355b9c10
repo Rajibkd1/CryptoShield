@@ -1,0 +1,51 @@
+
+c	java:S112Þ"FDefine and throw a dedicated exception instead of using a generic one.(Ôæë†8í÷öÝæ2
+b	java:S112ð"FDefine and throw a dedicated exception instead of using a generic one.(ÓœÇ#8î÷öÝæ2
+p
+java:S1192–"RDefine a constant instead of duplicating this literal "-fx-cursor: hand;" 3 times.(°Äœó8ò÷öÝæ2
+x
+java:S1192”"UDefine a constant instead of duplicating this literal "-fx-font-size: 13px;" 3 times.(Ï¶Ž‡üÿÿÿÿ8ó÷öÝæ2
+u
+java:S1192¸"RDefine a constant instead of duplicating this literal "-fx-padding: 8px;" 3 times.(êìÏÀúÿÿÿÿ8ó÷öÝæ2
+s
+java:S1192’"PDefine a constant instead of duplicating this literal "-fx-text-fill: " 3 times.(€£‰¯ûÿÿÿÿ8ô÷öÝæ2
+{
+java:S1192¶"XDefine a constant instead of duplicating this literal "-fx-border-radius: 5px;" 3 times.(Í¬ê°úÿÿÿÿ8õ÷öÝæ2
+k
+java:S1192L"IDefine a constant instead of duplicating this literal "Verdana" 14 times.(·ó±Ïüÿÿÿÿ8õ÷öÝæ2
+r
+java:S1192¹"UDefine a constant instead of duplicating this literal "-fx-font-size: 14px;" 3 times.(¯Ö‰)8õ÷öÝæ2
+z
+java:S1192“"WDefine a constant instead of duplicating this literal "-fx-font-weight: bold;" 3 times.(ê‚êÿýÿÿÿÿ8ö÷öÝæ2
+z
+java:S1192•"\Define a constant instead of duplicating this literal "-fx-background-radius: 5px;" 6 times.(Œ„ºÈ8ö÷öÝæ2
+K
+java:S5411¾"(Use a primitive boolean expression here.(¬‰‘™þÿÿÿÿ8þ÷öÝæ2
+€
+java:S1450'"^Remove the "fileRadioButton" field and declare it as a local variable in the relevant methods.(Ú¢¾úÿÿÿÿ8½ùöÝæ2
+‚
+java:S1450("`Remove the "folderRadioButton" field and declare it as a local variable in the relevant methods.(‡¼ÐÏùÿÿÿÿ8½ùöÝæ2
+]	java:S125>"<This block of commented-out lines of code should be removed.(ßŒËŒúÿÿÿÿ8ÅùöÝæ2
+I
+java:S5542å"+Use another cipher mode or disable padding.(Ö…«8¸úöÝæ2
+I
+java:S5542ö"+Use another cipher mode or disable padding.(¿›Ñ8½úöÝæ2
+H	java:S106‚"+Replace this use of System.out by a logger.(Þ„†ê8ÂúöÝæ2
+M	java:S106ˆ"+Replace this use of System.out by a logger.(¨—ÒÄýÿÿÿÿ8ÅúöÝæ2
+M	java:S106"+Replace this use of System.out by a logger.(†®¤Çýÿÿÿÿ8ÇúöÝæ2
+H	java:S106–"+Replace this use of System.out by a logger.(ûÜ½ƒ8ÉúöÝæ2
+H	java:S106š"+Replace this use of System.out by a logger.(ŸªëÓ8ËúöÝæ2
+H	java:S106ª"+Replace this use of System.out by a logger.(“è¸8ÑúöÝæ2
+]	java:S899´";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ÔúöÝæ2
+q
+java:S4042´"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ÔúöÝæ2
+W	java:S899¸";Do something with the "boolean" value returned by "delete".(œðŠ8ÕúöÝæ2
+k
+java:S4042¸"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(œðŠ8ÕúöÝæ2
+M	java:S106¼"+Replace this use of System.out by a logger.(…÷Ø™úÿÿÿÿ8ÖúöÝæ2
+M	java:S106Ï"+Replace this use of System.out by a logger.(˜¶›—ùÿÿÿÿ8ØúöÝæ2
+R
+java:S1128	"5Remove this unused import 'javafx.scene.image.Image'.(‰¿½Ç8âúöÝæ2
+[
+java:S1128
+"9Remove this unused import 'javafx.scene.image.ImageView'.(áÿ®Ãüÿÿÿÿ8ãúöÝæ2
